@@ -1,2 +1,2 @@
 # chattyy
-Little chat app with php
+Little secure chat app with php
